@@ -65,10 +65,8 @@ You bring the snacks, I’ll bring the code 🍪💻
 
 ## 👩‍💻 About Me
 
-- **Business Analyst** Certified Google Data Analytics and Business Analyst & visulaisation and experience in software development, data analysis, and Agile methodologies.
-- Skilled in SQL, Power BI, Tableau, Python, and data storytelling.
-- Passionate about using data to drive informed decisions and improve user outcomes in dynamic, fast-paced environments.
-- Experienced in collaborating with cross-functional teams, documenting workflows, and supporting delivery through detailed data analysis and stakeholder-aligned insights.
+- **Business Analyst** Certified Business Analyst and Google Data Analytics professional with a strong foundation in software development, data analysis, and Agile methodologies. I thrive on transforming complex data into actionable insights using SQL, Power BI, Tableau, and Python. My expertise lies in data storytelling—crafting clear, impactful visualisations that drive informed decisions and improve user outcomes in dynamic, fast-paced environments
+
 
 ---
 
