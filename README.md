@@ -49,7 +49,7 @@ You bring the snacks, I’ll bring the code 🍪💻
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0089D6?style=flat&logo=powerbi&logoColor=white)
 
-### 🎨 Design & Visualization
+### 🎨 Design & Visualisation
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
@@ -94,7 +94,7 @@ Certified Business Analyst and Google Data Analytics professional with a strong 
 
 ### ✈️ British Airways Review Analysis – **Tableau**  
 [![View Tableau Dashboard](https://img.shields.io/badge/View_Tableau_Dashboard-Click_Here-blue)](https://public.tableau.com/app/profile/monika.shah4858/viz/BritishAirwaysReviews_17288980101640/Dashboard1)  
-📉 *Customer feedback, visualized at 30,000 feet.*
+📉 *Customer feedback, visualised at 30,000 feet.*
 
 - Built a Tableau dashboard that visualizes passenger reviews for British Airways.
 - Analyzed sentiment trends and recurring feedback themes to uncover improvement areas.
