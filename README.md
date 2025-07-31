@@ -92,6 +92,17 @@ Certified Business Analyst and Google Data Analytics professional with a strong 
 
 ---
 
+
+### 📊 Automated Invoice & Payment Tracking Dashboard – **Power BI & SQL **  
+[![View Project](https://github.com/Monika365/Automated-Invoice-Payment-Tracking-Dashboard)  
+🧹 *Turning messy data into meaningful insights.*
+
+- Cleaned and structured large-scale layoff datasets using MySQL and Excel functions.
+- Conducted exploratory data analysis to identify trends, industry impacts, and workforce dynamics.
+- Created stakeholder-ready visuals to aid HR and strategy teams in decision-making.
+
+---
+
 ### ✈️ British Airways Review Analysis – **Tableau**  
 [![View Tableau Dashboard](https://img.shields.io/badge/View_Tableau_Dashboard-Click_Here-blue)](https://public.tableau.com/app/profile/monika.shah4858/viz/BritishAirwaysReviews_17288980101640/Dashboard1)  
 📉 *Customer feedback, visualised at 30,000 feet.*
