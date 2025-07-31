@@ -94,7 +94,7 @@ Certified Business Analyst and Google Data Analytics professional with a strong 
 
 
 ### 📊 Automated Invoice & Payment Tracking Dashboard – **Power BI & SQL**  
-[![View Project](https://github.com/Monika365/Automated-Invoice-Payment-Tracking-Dashboard)  
+[![View Project](https://img.shields.io/badge/View_Project-Click_Here-blue)](https://github.com/Monika365/Automated-Invoice-Payment-Tracking-Dashboard)  
 🧹 *Turning messy data into meaningful insights.*
 
 - Cleaned and structured large-scale layoff datasets using MySQL and Excel functions.
