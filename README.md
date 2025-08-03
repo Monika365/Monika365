@@ -21,7 +21,7 @@ You bring the snacks, I’ll bring the code 🍪💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/monika-shah-064489124/)
 
-[![Portfolio](https://www.datascienceportfol.io/shahmonika118)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome)](https://www.datascienceportfol.io/shahmonika118)
 
 [![Email](https://img.shields.io/badge/Email-shahmonika118%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shahmonika118@gmail.com)
 
