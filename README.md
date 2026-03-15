@@ -65,7 +65,7 @@ You bring the snacks, I’ll bring the code 🍪💻
 
 ## 👩‍💻 About Me
 
-Certified Business Analyst and Google Data Analytics professional with a strong foundation in data analysis, and Agile methodologies.I thrive on transforming complex data into actionable insights using SQL, Power BI, Tableau, and Python. My expertise lies in data storytelling—crafting clear, impactful visualisations that drive informed decisions and improve user outcomes in dynamic, fast-paced environments
+Certified Business Analyst and Google Data Analytics professional with a strong foundation in data analysis, and Agile methodologies.I thrive on transforming complex data into actionable insights using SQL, Power BI, Tableau, and Python. My expertise lies in data storytelling,crafting clear,impactful visualisations that drive informed decisions and improve user outcomes in dynamic,fast-paced environments
 
 
 ---
